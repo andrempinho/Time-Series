@@ -15,4 +15,5 @@ Prediction of consumption has several applications in industry, including to sup
 
 
 ### Book
+* Chapter: Comparing Time Series Prediction Approaches for Telecom Analysis
 * [URL](https://link.springer.com/book/10.1007/978-3-030-26036-1#toc)
